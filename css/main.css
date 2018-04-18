@@ -272,10 +272,7 @@ dd {
 	margin: 0 0 0 2rem;
 }
 
-/**
- * tables - (_document-setup.scss)  
- * -------------------------------------------------------------------
- */
+
 table {
 	border-width: 0;
 	width: 100%;
